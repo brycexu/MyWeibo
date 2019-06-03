@@ -16,4 +16,4 @@ Admin Page
 ------------
 <div align=center><img width="523" height="300" src="https://github.com/brycexu/MyWeibo/blob/master/images/root.png"/></div>
 
-Enjoy!
+Enjoy !!
